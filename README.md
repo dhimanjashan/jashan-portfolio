@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Jashandeep Singh – Full Stack Developer Portfolio
 
 Hi, I'm **Jashandeep Singh**, a BCA student and self-taught Full Stack Developer focused on building real-world applications using **Next.js, Node.js, MongoDB, and Tailwind CSS**.
@@ -38,15 +39,19 @@ Currently preparing for **internship / entry-level Full Stack Developer roles** 
 
 ## 🌐 Live Portfolio
 
-👉 https://your-vercel-link.vercel.app
+👉 https://jashan-portfolio-sage.vercel.app/
 
 ---
 
 ## 📩 Contact
 
-Email: your@email.com  
+Email: dhimanjashan548@gmail.com  
 GitHub: https://github.com/dhimanjashan
 
 ---
 
 ⭐ If you like this project, please give it a star!
+=======
+# jashan-portfolio
+Full Stack Developer Portfolio of Jashandeep Singh built with Next.js.
+>>>>>>> 77383e52f263878145e404bda66a5a3d8f0b060f
