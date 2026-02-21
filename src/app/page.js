@@ -1,7 +1,8 @@
 "use client";
 
 import Image from "next/image";
-import { Github, Mail, ExternalLink, Code2, Server, Database, Zap, Terminal } from "lucide-react";
+import { Github,Linkedin, X, Mail, ExternalLink, Code2, Server, Database, Zap, Terminal } from "lucide-react";
+
 import LeetCodeProgress from "./LeetCodeProgress/page";
 
 export default function Page() {
@@ -171,7 +172,7 @@ export default function Page() {
       <div className="w-full max-w-full bg-[#0a0a0f] min-h-screen text-[#f0f0f5] overflow-x-hidden px-6 sm:px-8 pb-24">
 
         {/* NAV */}
-        <nav className="flex items-center justify-between flex-wrap gap-3 mb-14 pt-7 animate-fade-up">
+        <nav className="flex items-center sm:justify-between justify-center flex-wrap gap-3 mb-14 pt-7 animate-fade-up">
           <span className="font-mono-jb text-lg font-semibold tracking-wide" style={{ color: '#00d4aa' }}>
             Jashandeep Singh
           </span>
@@ -199,7 +200,7 @@ export default function Page() {
               </div>
 
               {/* Name */}
-              <h1 className="font-syne font-extrabold leading-[1.05]  mb-3 text-6xl">
+              <h1 className="font-syne font-extrabold leading-[1.05]  mb-3 md:text-6xl text-3xl">
                 Jashandeep<br />
                 <span>Singh</span>
               </h1>
@@ -229,13 +230,21 @@ export default function Page() {
                   className="btn-outline-custom inline-flex items-center gap-2 text-sm font-semibold px-5 py-2.75 rounded-[10px] text-[#f0f0f5] no-underline border border-[rgba(255,255,255,0.15)] bg-[#12121a] cursor-pointer">
                   <Github size={15} /> GitHub
                 </a>
+                <a href="https://www.linkedin.com/in/jashan04/" target="_blank" rel="noopener noreferrer"
+                  className="btn-outline-custom inline-flex items-center gap-2 text-sm font-semibold px-5 py-2.75 rounded-[10px] text-[#f0f0f5] no-underline border border-[rgba(255,255,255,0.15)] bg-[#12121a] cursor-pointer">
+                  <Linkedin size={15} /> LinkedIn
+                </a>
+                <a href="https://x.com/Jashan5909" target="_blank" rel="noopener noreferrer"
+                  className="btn-outline-custom inline-flex items-center gap-2 text-sm font-semibold px-5 py-2.75 rounded-[10px] text-[#f0f0f5] no-underline border border-[rgba(255,255,255,0.15)] bg-[#12121a] cursor-pointer">
+                  <X size={15} /> Twitter
+                </a>
               </div>
             </div>
 
             {/* Photo */}
             <div className="relative shrink-0">
               <div className="photo-glow" />
-              <div className="w-80 sm:w-105 h-50 sm:h-125 rounded-[20px] overflow-hidden border border-[rgba(255,255,255,0.15)] relative">
+              <div className="w-80 sm:w-105 h-100 sm:h-125 rounded-[20px] overflow-hidden border border-[rgba(255,255,255,0.15)] relative">
                 <Image src="/homePageAvatr.jpeg" alt="Jashan Singh" fill style={{ objectFit: 'cover' }} priority />
               </div>
             </div>
@@ -413,9 +422,9 @@ export default function Page() {
                 className="btn-primary-custom inline-flex items-center gap-2 text-sm font-semibold px-5 py-2.75 rounded-[10px] text-white no-underline cursor-pointer">
                 <Mail size={15} /> dhimanjashan548@gmail.com
               </a>
-              <a href="https://github.com/dhimanjashan" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.linkedin.com/in/jashan04/" target="_blank" rel="noopener noreferrer"
                 className="btn-outline-custom inline-flex items-center gap-2 text-sm font-semibold px-5 py-2.75 rounded-[10px] text-[#f0f0f5] no-underline border border-[rgba(255,255,255,0.15)] bg-[#12121a] cursor-pointer">
-                <Github size={15} /> github.com/dhimanjashan
+                <Linkedin size={15} /> linkedin.com/in/jashan04/
               </a>
             </div>
           </div>
