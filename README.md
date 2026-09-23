@@ -9,22 +9,14 @@ This portfolio showcases my journey from learning coding basics to building prod
 
 ## 🌟 Featured Projects
 
-### 🎵 BeatMusic
-Music streaming web app with authentication and API integration.  
-Backend deployed on Render + Database on MongoDB Atlas.
+### 🛒 WanderLust
+Full-stack property listing web application using Node.js, Express.js, MongoDB, Mongoose, EJS, and JavaScript. Implemented user authentication, CRUD operations, image uploads, reviews, category-based listings, and location-based map integration. Followed MVC architecture to structure and manage the application.
 
-**Tech:** React.js, Node.js, MongoDB, Express
-
----
-
-### 🛒 ScriptFit
-E-commerce platform with cart, checkout, and order system using Next.js App Router.
-
-**Tech:** React, Next.js, MongoDB, Context API
+**Tech:** EJS, HTML,CSS,JavaScript, MongoDB Atlas
 
 ## 🧠 Skills
 
-- Frontend: Next.js, React, Tailwind, JavaScript
+- Frontend: React, Tailwind, JavaScript
 - Backend: Node.js, Express, REST APIs
 - Database: MongoDB, Mongoose
 - Other: DSA, Git, Deployment
