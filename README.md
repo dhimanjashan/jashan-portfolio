@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # 🚀 Jashandeep Singh – Full Stack Developer Portfolio
 
-Hi, I'm **Jashandeep Singh**, a BCA student and self-taught Full Stack Developer focused on building real-world applications using **Next.js, Node.js, MongoDB, and Tailwind CSS**.
+Hi, I'm **Jashandeep Singh**, a BCA student and self-taught Full Stack Developer focused on building real-world applications using **React.js, Node.js, MongoDB, and Tailwind CSS**.
 
 This portfolio showcases my journey from learning coding basics to building production-ready applications.
 

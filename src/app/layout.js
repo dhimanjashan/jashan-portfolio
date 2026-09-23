@@ -14,14 +14,13 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Jashandeep Singh – Full Stack Developer Portfolio",
   description:
-    "Portfolio of Jashandeep Singh, a BCA student and self-taught full stack developer skilled in Next.js, Node.js, MongoDB, and backend engineering. Creator of ScriptFit, BeatMusic, and Unity Truck Game.",
+    "Portfolio of Jashandeep Singh, a BCA student and self-taught full stack developer skilled in React.js, Node.js, MongoDB, and backend engineering.",
   keywords: [
     "Jashan Singh",
     "Full Stack Developer Portfolio",
-    "Next.js Developer",
+    "React.js Developer",
     "Node.js Backend Developer",
-    "ScriptFit",
-    "BeatMusic",
+    "WanderLust",
     "Web Developer Internship",
     "BCA Student Developer",
   ],
