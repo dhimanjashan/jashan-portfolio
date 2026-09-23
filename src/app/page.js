@@ -471,7 +471,7 @@ export default function Page() {
                 num: "01 / music app",
                 title: "WanderLust",
                 status: "Deployed",
-                link: "https://your-wanderlust-url.com",
+                link: "https://wanderlust-h4sv.onrender.com/",
                 desc: "Full-stack property listing web application using Node.js, Express.js, MongoDB, Mongoose, EJS, and JavaScript. Implemented user authentication, CRUD operations, image uploads, reviews, category-based listings, and location-based map integration. Followed MVC architecture to structure and manage the application.",
                 tags: [
                   "EJS",
