@@ -14,6 +14,8 @@ Full-stack property listing web application using Node.js, Express.js, MongoDB, 
 
 **Tech:** EJS, HTML,CSS,JavaScript, MongoDB Atlas
 
+---
+
 ## 🧠 Skills
 
 - Frontend: React, Tailwind, JavaScript
