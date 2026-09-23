@@ -468,7 +468,7 @@ export default function Page() {
           <div className="flex flex-col gap-3.5">
             {[
               {
-                num: "01 / music app",
+                num: "01 / WanderLust",
                 title: "WanderLust",
                 status: "Deployed",
                 link: "https://wanderlust-h4sv.onrender.com/",
